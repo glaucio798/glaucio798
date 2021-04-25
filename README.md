@@ -36,10 +36,12 @@
 ![Python](https://img.shields.io/badge/-Python-252525?style=for-the-badge&logo=python)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-252525?style=for-the-badge&logo=mysql)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-252525?style=for-the-badge&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-React-252525?style=for-the-badge&logo=react)\
+![Typescript](https://img.shields.io/badge/-Typescript-252525?style=for-the-badge&logo=typeScript)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-252525?style=for-the-badge&logo=next.js)&nbsp;
 
 ### Linguagens e tecnologias que eu quero aprender
 
-![React](https://img.shields.io/badge/-React-252525?style=for-the-badge&logo=react)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-252525?style=for-the-badge&logo=.net)&nbsp;
 ![C#](https://img.shields.io/badge/c%23%20-252525?&style=for-the-badge&logo=c-sharp)&nbsp;
 
